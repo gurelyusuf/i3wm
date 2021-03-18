@@ -1,6 +1,5 @@
 # My General Arch Layout & Customizations for i3WM
 
-One to two paragraph statement about your product and what it does.
 
 ![](screenshots/screenshot1.png)
 ![](screenshots/screenshot2.png)

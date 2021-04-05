@@ -32,5 +32,5 @@ For more information, please refer to the: </br></br>
 <b><b>
 ## About
 
-[My Website](http://yusufgurel.site) | [My Twitter](https://twitter.com/itisgurel) | [My E-mail](mailto:yusufgurel@outlook.com)
+[My Website](http://yusufgurel.site) | [My Twitter](https://twitter.com/itisgurel) | [My Email](mailto:yusufgurel@outlook.com)
 
